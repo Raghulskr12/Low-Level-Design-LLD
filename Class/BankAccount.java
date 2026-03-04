@@ -66,8 +66,7 @@ class Main
 			if(option == 4)
 			{
 				System.out.println("Exiting....");
-				break;
-			}
+				break;			}
 		}
 	}
 }
